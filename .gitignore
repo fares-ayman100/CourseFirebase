@@ -42,13 +42,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Firebase related
-google-services.json
-ios/Runner/GoogleService-Info.plist
-.firebase/
-
-# Flutter build files
-build/
-.dart_tool/
 
 
